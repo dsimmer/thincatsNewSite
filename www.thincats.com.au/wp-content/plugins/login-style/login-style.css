@@ -1,0 +1,24 @@
+html, body.login {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 11pt;
+	margin: 0 auto;
+	padding: 0;
+	background: #F7F7F7 url('../../themes/reBuilding_society/images/body-background.png') 0 -150px repeat-x;
+	padding-top: 0px !important;
+	height: 100%;
+}
+
+#login {
+	margin: 0 auto;
+	padding-top: 75px;
+}
+
+	#login h1 a {
+		background: url('../../themes/reBuilding_society/images/logo.png') no-repeat 7px -10px;
+		background-size: 100%;
+		-moz-background-size: 100%; /* Gecko 1.9.2 (Firefox 3.6) */
+		-o-background-size: 100%; /* Opera 9.5 */
+		-webkit-background-size: 100%;/* Safari 3.0 */
+		-khtml-background-size: 100%; /* Konqueror 3.5.4 */
+		height: 85px;
+	}
