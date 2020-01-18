@@ -101,7 +101,7 @@ $(document).ready(function() {
  *
  */
 function registrationForm() {
-	if(window.location.pathname === "/register/"){
+	if(window.location.pathname === "https://thincats.azurewebsites.net/account/lender/register/"){
 
 		jQuery.validator.addMethod(
 			"hasOnlyLowerCase",
